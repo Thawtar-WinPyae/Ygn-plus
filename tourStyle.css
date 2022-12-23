@@ -1,0 +1,36 @@
+.em{
+    font-size: x-large;
+}
+.ct{
+    color: gray;
+}
+#sec3{
+    background-color: rgb(59, 55, 55);
+}
+
+#lastImg1{
+    width: 80px;
+}
+#lastImg2{
+    width: 110px;
+}
+#cl{
+    color: green;
+}
+.hovUnder:hover{
+    border-color: blue;
+    border-bottom-style: solid;
+}
+.desti{
+    font-size: large;
+}
+.dt{
+    color: gray;
+}
+.div1s1{
+    /* margin-top: -700px; */
+    background-color:whitesmoke;
+}
+.div2s1{
+    border-radius: 50%;
+}
